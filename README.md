@@ -1,6 +1,6 @@
 <h1>Cloudflare 使用额度显示 HUD</h1>
 
-<p>项目英文名称：cloudflare-workers-usage-radar</p>
+<p>项目英文名称：CF-Monitor-Dashboard</p>
 
 <p>这是一个兼具极客美学与实用性的 Cloudflare 每日调用额度监控面板。前端采用纯净的赛博朋克数字雨背景与动态发光仪表盘，后端基于 Cloudflare Workers 或 Pages 原生部署，通过 GraphQL API 实时、安全地获取您账户当天的请求消耗进度。</p>
 
